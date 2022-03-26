@@ -25,3 +25,14 @@
         grid-template-columns: 1fr;
     }
 }
+
+.btn-choose-one{
+    width: 100%;
+    padding: 10px;
+}
+
+.btn-choose-again{
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+}
