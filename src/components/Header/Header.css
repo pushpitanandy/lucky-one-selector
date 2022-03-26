@@ -1,0 +1,9 @@
+.header h1{
+    color: rgb(66, 2, 2);
+    font-size: 80px;
+}
+
+.header p{
+    color: black;
+    font-size: 25px;
+}
