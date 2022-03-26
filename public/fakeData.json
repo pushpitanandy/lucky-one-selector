@@ -3,60 +3,72 @@
         "id": "1",
         "name": "Dark and White",
         "price": "100",
-        "image": "../src/images/products/choco-2.jpg"
+        "image": "https://img.freepik.com/free-vector/chocolate-packing-with-ingredients-branch-cocoa-watercolor-illustration_83728-463.jpg?t=st=1648280939~exp=1648281539~hmac=894742332ff6eedd088c6bbdc8a9e4dd817ab4a3e229c7ff1695ccb8f897617a&w=740"
     },
     {
         "id": "2",
         "name": "3 Flavored Chocolate",
         "price": "150",
-        "image": "../src/images/products/choco-3.jpg"
+        "image": "https://img.freepik.com/free-psd/chocolate-tablets-paper-packaging-mock-up_23-2148241676.jpg?t=st=1648281362~exp=1648281962~hmac=e756f6ce37e03981ef9919d8543a0d99820d114c3be403336531dcc28e237aff&w=740"
     },
     {
         "id": "3",
         "name": "Fruit and Nut",
         "price": "50",
-        "image": "../src/images/products/choco-college.jpg"
+        "image": "https://img.freepik.com/free-psd/chocolate-packaging-design_1310-691.jpg?t=st=1648280939~exp=1648281539~hmac=b8e1e632ba35acaa340e8f2e8aae950e9898e7f70395276fa38151259437783b&w=740"
     },
     {
         "id": "4",
         "name": "Chocolate Cookies",
         "price": "60",
-        "image": "../src/images/products/choco-cookies.jpg"
+        "image": "https://img.freepik.com/free-vector/chocolate-cookies-realistic-mock-up-delicious-dessert-falling-cookies-with-chocolate-splash-3d-detailed-product-package-label-design-posters_1268-13834.jpg?t=st=1648281362~exp=1648281962~hmac=48ce573be358d89eacfabb1c9ceeb610171b9593508812f85a52afcd7bd3dd15&w=740"
     },
     {
         "id": "5",
         "name": "Dark Chocolate",
         "price": "80",
-        "image": "../src/images/products/choco-dark.jpg"
+        "image": "https://img.freepik.com/free-vector/dark-chocolate-bar-vector-realistic-product-placement-design-package-mock-up_1268-18113.jpg?t=st=1648280939~exp=1648281539~hmac=495e9426655a928df18e6a890c8cb55a429e7b98c5cedbf924ac4f9ba62d27c3&w=740"
     },
     {
         "id": "6",
         "name": "Milky Flavors",
         "price": "150",
-        "image": "../src/images/products/choco-flavors.jpg"
+        "image": "https://img.freepik.com/free-vector/sweet-milk-vertical-realistic-banners-set_1284-11529.jpg?t=st=1648280939~exp=1648281539~hmac=331c4283ed7dcad7cf7e549487e86817be7f67cd6ee5a9f4d3326a7fd4fd625f&w=740"
     },
     {
         "id": "7",
         "name": "Choco Mini",
         "price": "30",
-        "image": "../src/images/products/choco-mini.jpg"
+        "image": "https://img.freepik.com/free-psd/glossy-foil-chocolate-bar-packaging-mockup_439185-4187.jpg?t=st=1648281362~exp=1648281962~hmac=4b61b8663449444d979dfde8ab85e512c73882ed85a8b5866616d9d64ddf0d57&w=740"
     },
     {
         "id": "8",
         "name": "Nutty Chocolates",
         "price": "200",
-        "image": "../src/images/products/choco-nuts.jpg"
+        "image": "https://img.freepik.com/free-vector/vector-different-white-milk-bitter-chocolate-bars-with-cashew-almond-hazel-nuts-front-view-isolated-white-background_1284-46366.jpg?t=st=1648280939~exp=1648281539~hmac=a641a9d1e549de5bbb5073226bd61a68b7f6c716d92929fcb744a0d9a4038712&w=740"
     },
     {
         "id": "9",
         "name": "Choco Royal",
         "price": "200",
-        "image": "../src/images/products/choco-royal.jpg"
+        "image": "https://img.freepik.com/free-vector/chocolate-bars-set_1284-13335.jpg?t=st=1648280939~exp=1648281539~hmac=770d2804c3eb08910fe3051b78b329eb7caf3bbd93dcd11cbc886842db7dc3f3&w=740"
     },
     {
         "id": "10",
         "name": "Premium Chocolates",
         "price": "250",
-        "image": "../src/images/products/choco-sweet.jpg"
+        "image": "https://img.freepik.com/free-vector/chocolate-packing-with-ingredients-cocoa-making-watercolor-illustration_83728-461.jpg?t=st=1648281525~exp=1648282125~hmac=594dccfb3678fe851e9dbc7d7509a9669123547e2b232c270606337f422fa104&w=740"
+    },
+    {
+        "id": "11",
+        "name": "Fruity Chocolates",
+        "price": "250",
+        "image": "https://img.freepik.com/free-vector/cartoon-dairy-products-vertical-banners_1284-37537.jpg?t=st=1648281656~exp=1648282256~hmac=a33c6e804274382e699c861331c489198f44a98fe013505a9992395040a6f6e7&w=740"
+    },
+    {
+        "id": "12",
+        "name": "Mini Choco Bars",
+        "price": "250",
+        "image": "https://img.freepik.com/free-psd/plastic-chocolate-bar-wrapping-mock-up_23-2148241735.jpg?t=st=1648281656~exp=1648282256~hmac=24283badf9ab2acfb016d1fb2a3fb57b340fbc0f9050a91166ca4daeded2b22f&w=740"
     }
 ]
