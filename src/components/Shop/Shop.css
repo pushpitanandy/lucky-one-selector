@@ -9,3 +9,9 @@
     margin-left: 20px;
     grid-gap: 45px;
 }
+
+@media only screen and (max-width:688px) {
+    .product-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
