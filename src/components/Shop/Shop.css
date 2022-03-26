@@ -10,8 +10,11 @@
     grid-gap: 45px;
 }
 
-@media only screen and (max-width:688px) {
-    .product-container{
-        grid-template-columns: repeat(2, 1fr);
+@media screen and (max-width: 688px){
+    .shop-container{
+        grid-template-columns: 1fr;
+    }
+    .items-container{
+        grid-template-columns: 1fr;
     }
 }
