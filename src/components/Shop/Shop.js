@@ -15,8 +15,13 @@ const Shop = () => {
     }, []);
 
     const handleAddToCart = (selectedProduct) => {
-        const newCart = [...cart, selectedProduct];
-        setCart(newCart);
+        if (cart.length < 4) {
+            const newCart = [...cart, selectedProduct];
+            setCart(newCart);
+        }
+        else {
+            alert('Only 4 items allowed');
+        }
     }
 
     return (
@@ -36,8 +41,10 @@ const Shop = () => {
             {/* For selected items */}
             <div className='selected-items-container'>
                 <h3>Selected Items</h3>
-                <p>{cart.length}</p>
-
+                {
+                    cart.map(item => <Cart item={item}></Cart>)
+                }
+                <button className='btn-choose-one'>Choose 1 for Me</button>
             </div>
         </div>
     );

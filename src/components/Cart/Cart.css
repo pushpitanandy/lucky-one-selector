@@ -1,0 +1,10 @@
+.cart{
+    display: flex;
+    margin: 10px;
+}
+
+.cart img{
+    width: 25%;
+    border-radius: 50px;
+
+}

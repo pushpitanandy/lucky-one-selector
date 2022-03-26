@@ -4,7 +4,7 @@ import React from 'react';
 import './Product.css';
 
 const Product = ({ handleAddToCart, product }) => {
-    const { name, image, price, id } = product;
+    const { name, image, price } = product;
     return (
         <div className='product'>
             <img src={image} alt="" />
