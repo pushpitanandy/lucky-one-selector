@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.answers{
+    display: flex;
+    justify-content:space-between;
+    margin:40px;
+    
+}
+
+.first-answer{
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    background-color: white;
+}
+
+.second-answer{
+    border: 2px solid darkred;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    width: 50%
+}
