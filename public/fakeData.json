@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Dark and White",
+        "price": "100",
+        "image": "../src/images/products/choco-2.jpg"
+    },
+    {
+        "id": "2",
+        "name": "3 Flavored Chocolate",
+        "price": "150",
+        "image": "../src/images/products/choco-3.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Fruit and Nut",
+        "price": "50",
+        "image": "../src/images/products/choco-college.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Chocolate Cookies",
+        "price": "60",
+        "image": "../src/images/products/choco-cookies.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Dark Chocolate",
+        "price": "80",
+        "image": "../src/images/products/choco-dark.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Milky Flavors",
+        "price": "150",
+        "image": "../src/images/products/choco-flavors.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Choco Mini",
+        "price": "30",
+        "image": "../src/images/products/choco-mini.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Nutty Chocolates",
+        "price": "200",
+        "image": "../src/images/products/choco-nuts.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Choco Royal",
+        "price": "200",
+        "image": "../src/images/products/choco-royal.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Premium Chocolates",
+        "price": "250",
+        "image": "../src/images/products/choco-sweet.jpg"
+    }
+]
